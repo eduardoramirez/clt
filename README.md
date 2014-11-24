@@ -1,4 +1,4 @@
 vimrc
 =====
 
-Just my vimrc
+Just my vimrc.
