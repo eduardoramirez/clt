@@ -1,4 +1,4 @@
-vimrc
+Command Line Tools
 =====
 
-Just my vimrc.
+A collection of tools, scripts, and other stuff for my terminal environment
