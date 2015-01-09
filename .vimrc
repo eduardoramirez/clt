@@ -13,7 +13,7 @@ set visualbell
 set noerrorbells
 set nowrap              " don't wrap lines
 set scrolloff=5         " Lines off the edges of the screen when scrolling
-set noswapfile 		      " They're just annoying. Who likes them?
+set noswapfile 	" They're just annoying. Who likes them?
 set wildmenu            " Tab completion
 set wildmode=longest:full
 set nobackup            " do not keep a backup file, use versions instead
